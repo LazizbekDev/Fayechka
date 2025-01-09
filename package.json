@@ -5,15 +5,16 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "gsap": "^3.12.5",
-    "gsap-trial": "^3.12.5",
-    "imagesloaded": "^5.0.0"
+    "gsap-trial": "^3.12.5"
   },
   "devDependencies": {
     "vite": "^6.0.7"
