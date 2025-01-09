@@ -1,0 +1,21 @@
+{
+  "name": "fayechka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "gsap-trial": "^3.12.5",
+    "imagesloaded": "^5.0.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7"
+  }
+}
